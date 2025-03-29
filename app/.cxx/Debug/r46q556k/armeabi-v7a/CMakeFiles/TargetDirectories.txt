@@ -1,0 +1,3 @@
+/Users/olaola/Desktop/tmp/phoneLight/app/.cxx/Debug/r46q556k/armeabi-v7a/CMakeFiles/phonelight.dir
+/Users/olaola/Desktop/tmp/phoneLight/app/.cxx/Debug/r46q556k/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/olaola/Desktop/tmp/phoneLight/app/.cxx/Debug/r46q556k/armeabi-v7a/CMakeFiles/rebuild_cache.dir
